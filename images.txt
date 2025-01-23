@@ -1,1 +1,2 @@
-nginx:latest
+openjdk:8
+java:8
