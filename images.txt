@@ -1,1 +1,1 @@
-openjdk:8-jdk-alpine
+infiniflow/ragflow:v0.16.0
