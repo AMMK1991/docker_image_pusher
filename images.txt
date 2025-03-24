@@ -1,1 +1,1 @@
-jakobhoeg/nextjs-ollama-ui:latest
+rustscan/rustscan:latest
