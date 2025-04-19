@@ -1,1 +1,1 @@
-rustscan/rustscan:latest
+dockurr/windows
