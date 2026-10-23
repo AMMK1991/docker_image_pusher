@@ -1,1 +1,3 @@
-adminer
+dbgate/dbgate
+dbeaver/cloudbeaver
+frostsip/web-db
